@@ -118,4 +118,4 @@ Potential improvements and extensions:
 
 ## Contact
 
-[[AMpoet](https://github.com/AMPoet)]
+[AMpoet](https://github.com/AMPoet)
